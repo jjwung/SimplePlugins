@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ActorPool",
+	"Description": "Provides a simple subsystem for pooling Actors, which is used to reduce the performance consumption of frequently creating and destroying objects",
+	"Category": "Other",
+	"CreatedBy": "jj",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ActorPool",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
